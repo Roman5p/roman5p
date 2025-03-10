@@ -57,6 +57,9 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=roman-thapa&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roman-thapa&theme=dark" alt="roman-thapa" />
+</p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-thapa&layout=compact&theme=radical" alt="Top Languages" />
 </p>
